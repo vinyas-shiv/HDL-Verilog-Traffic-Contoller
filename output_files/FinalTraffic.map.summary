@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Wed Mar 27 13:04:57 2024
+Quartus Prime Version : 23.1std.0 Build 991 11/28/2023 SC Lite Edition
+Revision Name : FinalTraffic
+Top-level Entity Name : FinalTraffic
+Family : MAX 10
+Total logic elements : 37
+    Total combinational functions : 37
+    Dedicated logic registers : 4
+Total registers : 4
+Total pins : 36
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0
